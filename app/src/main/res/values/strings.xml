@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Network Diagnostics Pro</string>
+    <string name="title_network_info">Active Connection Info</string>
+    <string name="title_ping_test">Server Latency &amp; Ping Test</string>
+    <string name="btn_run_test">Run Diagnostics</string>
+    <string name="status_testing">Testing in progress...</string>
+</resources>
