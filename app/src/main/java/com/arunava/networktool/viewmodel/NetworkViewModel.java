@@ -1,4 +1,4 @@
-﻿package com.arunava.networktool.viewmodel;
+package com.arunava.networktool.viewmodel;
 
 import android.app.Application;
 import androidx.annotation.NonNull;

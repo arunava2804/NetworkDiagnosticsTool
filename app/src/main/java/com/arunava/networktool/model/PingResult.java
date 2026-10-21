@@ -1,4 +1,4 @@
-﻿package com.arunava.networktool.model;
+package com.arunava.networktool.model;
 
 public class PingResult {
     private final String hostName;

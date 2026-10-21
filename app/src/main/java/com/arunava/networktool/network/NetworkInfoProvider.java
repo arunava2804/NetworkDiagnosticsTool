@@ -1,4 +1,4 @@
-﻿package com.arunava.networktool.network;
+package com.arunava.networktool.network;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

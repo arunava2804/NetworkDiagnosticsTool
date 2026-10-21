@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color bg_dark
+color card_dark
+color card_stroke
+color ping_fast
+color ping_medium
+color ping_slow
+color primary
+color primary_variant
+color text_light
+color text_muted
+id btnRunTest
+id rvPingResults
+id tvConnectionType
+id tvHostName
+id tvIpAddress
+id tvLatency
+id tvLinkSpeed
+id tvLocalIp
+id tvStatusMessage
+layout activity_main
+layout item_ping_result
+string app_name
+string btn_run_test
+string status_testing
+string title_network_info
+string title_ping_test
+style Theme.NetworkTool

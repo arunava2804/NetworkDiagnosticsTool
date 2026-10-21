@@ -1,4 +1,4 @@
-﻿package com.arunava.networktool.ui;
+package com.arunava.networktool.ui;
 
 import android.os.Bundle;
 import android.view.View;

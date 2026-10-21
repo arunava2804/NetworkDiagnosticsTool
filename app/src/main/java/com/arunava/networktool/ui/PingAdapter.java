@@ -1,4 +1,4 @@
-﻿package com.arunava.networktool.ui;
+package com.arunava.networktool.ui;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;

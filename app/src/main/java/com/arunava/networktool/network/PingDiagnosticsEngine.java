@@ -1,4 +1,4 @@
-﻿package com.arunava.networktool.network;
+package com.arunava.networktool.network;
 
 import com.arunava.networktool.model.PingResult;
 import java.io.IOException;
